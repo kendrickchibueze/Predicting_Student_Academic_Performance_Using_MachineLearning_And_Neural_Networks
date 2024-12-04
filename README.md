@@ -69,5 +69,5 @@ The following tools and libraries were utilized:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/kendrickchibueze/Predicting_Student_Academic_Performance_Using_MachineLearning_And_Neural_Networks.git)>
+   git clone <https://github.com/kendrickchibueze/Predicting_Student_Academic_Performance_Using_MachineLearning_And_Neural_Networks.git>
    cd <Predicting_Student_Academic_Performance_Using_MachineLearning_And_Neural_Networks>
